@@ -1,6 +1,6 @@
 influxdb
 emqx
-python:3.10-alpine
+python:3.10
 --platform=linux/arm64/v8 influxdb
 --platform=linux/arm64/v8 emqx
---platform=linux/amd64 python:3.10-alpine
+--platform=linux/amd64 python:3.10
