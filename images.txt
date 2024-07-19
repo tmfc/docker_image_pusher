@@ -4,3 +4,43 @@ python:3.10
 --platform=linux/arm64/v8 influxdb
 --platform=linux/arm64/v8 emqx
 --platform=linux/amd64 python:3.10
+
+langgenius/dify-api:0.6.14
+langgenius/dify-web:0.6.14
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.1
+ubuntu/squid:latest
+nginx:latest
+semitechnologies/weaviate:1.19.0
+langgenius/qdrant:v1.7.3
+pgvector/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.2.0
+ghcr.io/chroma-core/chroma:0.5.1
+container-registry.oracle.com/database/free:latest
+quay.io/coreos/etcd:v3.5.5
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.3.1
+opensearchproject/opensearch:latest
+opensearchproject/opensearch-dashboards:latest
+myscale/myscaledb:1.6
+
+--platform=linux/arm64/v8 langgenius/dify-api:0.6.14
+--platform=linux/arm64/v8 langgenius/dify-web:0.6.14
+--platform=linux/arm64/v8 postgres:15-alpine
+--platform=linux/arm64/v8 redis:6-alpine
+--platform=linux/arm64/v8 langgenius/dify-sandbox:0.2.1
+--platform=linux/arm64/v8 ubuntu/squid:latest
+--platform=linux/arm64/v8 nginx:latest
+--platform=linux/arm64/v8 semitechnologies/weaviate:1.19.0
+--platform=linux/arm64/v8 langgenius/qdrant:v1.7.3
+--platform=linux/arm64/v8 pgvector/pgvector:pg16
+--platform=linux/arm64/v8 tensorchord/pgvecto-rs:pg16-v0.2.0
+--platform=linux/arm64/v8 ghcr.io/chroma-core/chroma:0.5.1
+--platform=linux/arm64/v8 container-registry.oracle.com/database/free:latest
+--platform=linux/arm64/v8 quay.io/coreos/etcd:v3.5.5
+--platform=linux/arm64/v8 minio/minio:RELEASE.2023-03-20T20-16-18Z
+--platform=linux/arm64/v8 milvusdb/milvus:v2.3.1
+--platform=linux/arm64/v8 opensearchproject/opensearch:latest
+--platform=linux/arm64/v8 opensearchproject/opensearch-dashboards:latest
+--platform=linux/arm64/v8 myscale/myscaledb:1.6
