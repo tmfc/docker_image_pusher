@@ -5,8 +5,8 @@ python:3.10
 --platform=linux/arm64/v8 emqx
 --platform=linux/amd64 python:3.10
 
-langgenius/dify-api:0.6.14
-langgenius/dify-web:0.6.14
+langgenius/dify-api:0.6.15
+langgenius/dify-web:0.6.15
 postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.1
