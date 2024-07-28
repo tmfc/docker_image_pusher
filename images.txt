@@ -1,1 +1,1 @@
---platform=linux_arm64_v8 emqx/neuronex
+--platform=linux/arm64/v8 emqx/neuronex
