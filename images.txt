@@ -1,5 +1,3 @@
 --platform=linux/arm64/v8 emqx/neuronex
 emqx/neuronex
-mysql:8
-phpmyadmin
-node:20-slim
+python:3.11-slim
