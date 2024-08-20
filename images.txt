@@ -2,3 +2,4 @@
 emqx/neuronex
 mysql:8
 phpmyadmin
+node:20-slim
