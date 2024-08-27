@@ -1,2 +1,3 @@
 --platform=linux/arm64/v8 emqx/neuronex
---platform=linux/amd64 nextcloud/all-in-one:latest
+mariadb:10.11
+owncloud/server:10.15
