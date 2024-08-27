@@ -1,3 +1,4 @@
 --platform=linux/arm64/v8 emqx/neuronex
 jc21/nginx-proxy-manager:latest
 nextcloud/aio-domaincheck:latest
+nextcloud/aio-watchtower:latest
