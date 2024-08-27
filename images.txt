@@ -2,3 +2,4 @@
 emqx/neuronex
 python:3.11-slim
 redis:7-alpine
+nextcloud/all-in-one:latest
