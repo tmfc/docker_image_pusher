@@ -1,3 +1,2 @@
---platform=linux/arm64/v8 emqx/neuronex
-containrrr/watchtower
-repository:latest
+# --platform=linux/arm64/v8 emqx/neuronex
+registry:2
