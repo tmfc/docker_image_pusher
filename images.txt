@@ -1,2 +1,2 @@
 # --platform=linux/arm64/v8 emqx/neuronex
-registry:2
+python:3.12.7-slim
